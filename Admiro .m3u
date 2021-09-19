@@ -1,4 +1,5 @@
-- 
+- #EXTM3U
+
 #EXTINF:-1, tiempo
 https://ewwvxzmd.lucusvirtual.es/movies/Old2.mp4
 #EXTINF:-1,candyman
@@ -255,12 +256,6 @@ http://vod.tuxchannel.tv/peliculas/720/arlo%20the%20alligator%20boy%202021.mkv
 http://vod.tuxchannel.tv/peliculas/720/the%20unholy%202021.mkv
 #EXTINF:-1, ferry
 http://vod.tuxchannel.tv/peliculas/720/ferry%202021.mkv
-#EXTINF:-1,
 
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
 
 #EXTINF:-1,
