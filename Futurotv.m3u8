@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTIN:-1,Winpremium tv
+#EXTIN:-1,Win premium tv
 http://cdn.boxter.live:8081/ssl/WIN_+78/playlist.m3u8
 #EXTIN:-1,Cantinazo tv
 http://ultrontv.xyz:80/Tamika/Tamika/37431
-#EXTIN:-1,Azteca uno
-http://185.134.22.131:8080/testline/testline/38314
 #EXTIN:-1,Win más 4 mb
 http://185.134.22.131:8080/testline/testline/38140
+#EXTIN:-1,Azteca uno
+http://185.134.22.131:8080/testline/testline/38314
 #EXTINFwin plus 4 mv
 http://185.134.22.131:8080/testline/testline/38140
 EXTINF:-1,tv
