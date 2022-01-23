@@ -72,6 +72,20 @@ https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Urban tv
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1,Mix 24 global
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/52637
+#EXTINF:-1,Mix 24  tropical
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/43219
+#EXTINF:-1,tocahits
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39075
+#EXTINF:-1,tocahits conciertos
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/64256
+#EXTINF:-1,mix 24 retro
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/42485
+#EXTINF:-1,tocapop 100
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39837
+#EXTINF:-1,puro rock
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/65357
 #EXTINF:-1, hqm Urban
 https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
 #EXTINF:-1, vallenato tv
