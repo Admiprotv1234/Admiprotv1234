@@ -1,15 +1,21 @@
-## Hi there 👋
+#EXTM3U
 
-<!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#EXTINF: Stranger things temp4-1
+http://199.188.103.26:80/rombwgshgfhgdsjr/Series/Stranger%20things/temp4/1.mp4
+#EXTINF: Stranger things temp4-2
+http://199.188.103.26:80/rombwgshgfhgdsjr/Series/Stranger%20things/temp4/2.mp4
+#EXTINF: Stranger things temp4-3
+http://199.188.103.26:80/rombwgshgfhgdsjr/Series/Stranger%20things/temp4/3.mp4
+#EXTINF: Stranger things temp4-4
+http://199.188.103.26:80/rombwgshgfhgdsjr/Series/Stranger%20things/temp4/4.mp4
+#EXTINF: Stranger things temp4-5
+http://199.188.103.26:80/rombwgshgfhgdsjr/Series/Stranger%20things/temp4/5.mp4
+#EXTINF: Stranger things temp4-6
+http://199.188.103.26:80/rombwgshgfhgdsjr/Series/Stranger%20things/temp4/6.mp4
+#EXTINF: Stranger things temp4-
+http://199.188.103.26:80/rombwgshgfhgdsjr/Series/Stranger%20things/temp4/7.mp4#
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask  about ...
-- 📫 How to  me: ...
-- 😄 Pronouns: ...
-: ...
-->
+
+
+
